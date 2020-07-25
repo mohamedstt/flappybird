@@ -8,7 +8,7 @@ Flappy Bird
   <a href="https://github.com/mohamedstt">
     <img src="https://img.shields.io/badge/author-mohamedstt-important?style=flat-square" alt="author">
   </a>
-  <img src="https://img.shields.io/github/languages/count/gui-leandro/flappy-bird?color=important&style=flat-square">
+  <img src="https://img.shields.io/github/languages/count/mohamedstt/flappybird?color=important&style=flat-square">
 </p>
 
 <hr>
@@ -22,5 +22,5 @@ Flappy Bird
 ## Game
 
 <p align="center">
-  <img src="https://github.com/mohamedstt/flappy-bird/blob/master/assets/read.gif">
+  <img src="https://github.com/mohamedstt/flappybird/blob/master/assets/read.gif">
 </p>
