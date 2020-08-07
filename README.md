@@ -2,7 +2,7 @@
 Flappy Bird
 </h1>
 
-## 📋 Índice
+## 📋 Sumary
 
 - [About](#-About)
 - [Technologies](#-Technologies)
