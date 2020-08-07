@@ -2,24 +2,24 @@
 Flappy Bird
 </h1>
 
-<p align="center">Flappy Bird game developed with JavaScript.</p>
+## 📋 Índice
 
-<p align="center">
-  <a href="https://github.com/mohamedstt">
-    <img src="https://img.shields.io/badge/author-mohamedstt-important?style=flat-square" alt="author">
-  </a>
-  <img src="https://img.shields.io/github/languages/count/mohamedstt/flappybird?color=important&style=flat-square">
-</p>
+- [About](#-About)
+- [Technologies](#-Technologies)
+- [Preview](#-Game-Preview)
 
-<hr>
 
-## Techs
+## 📖 About
 
-- [x] JavaScript
-- [x] HTML5
-- [x] CSS3
+This is a clone of flappybird made with javascript.
 
-## Game
+## 🚀 Technologies:
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 🚀  Game Preview 
 
 <p align="center">
   <img src="https://github.com/mohamedstt/flappybird/blob/master/assets/read.gif">
